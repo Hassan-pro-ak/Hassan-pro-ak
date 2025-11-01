@@ -32,17 +32,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-|----------|--------------|-------|
-| **IP DETECTOR** | Real-time IP & geolocation tracker with Telegram alerts | JS • Leaflet • Make.com |
-| **AI IMAGE BOT** | Telegram image generator using OpenAI + retry system | Python • OpenAI • Railway |
-| **SOCIAL API ENGINE** | Unified API scraper & data aggregator | Node.js • Puppeteer |
-| **CODE GHOST SITE** | 3D cyberpunk portfolio with motion & parallax | React • Three.js • Tailwind |
-
----
-
 ## 📊 GitHub Analytics
 
 <p align="center">
