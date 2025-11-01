@@ -6,7 +6,7 @@
 <img src="https://i.postimg.cc/L611sNkj/IMG-20250717-WA0116.jpg" width="100%" alt="CODE GHOST Banner"/>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=34&color=00FFFF&center=true&vCenter=true&width=800&lines=SYCHO+X+2006%7C+CODE+IN+THE+GHOST+Introvert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&color=00FFFF&center=true&vCenter=true&width=600&lines=SYCHO+X+2006;INTROVERT;AGE:+17;CITY:+KARACHI;COUNTRY:+PAKISTAN" alt="Typing SVG" />
 </h1>
 
 <p align="center">
