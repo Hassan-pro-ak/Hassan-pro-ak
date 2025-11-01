@@ -10,9 +10,9 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/INTERFACE-GLASSMORPHIC-00ffff?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/STYLE-CYBERPUNK-ff0066?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MODE-DARK%20%26%20LIGHT-9b59b6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RELIGION-ISLAM-00ffff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FAVOURITE%20FOOD-BIRYANI-ff0066?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MINDSET-UNSTOPPABLE-9b59b6?style=for-the-badge" />
 </p>
 
 </div>
